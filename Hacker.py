@@ -39,8 +39,8 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('✨𝐒𝐔𝐏𝐏𝐎𝐑𝐓', 'https://t.me/love_birds_143'),
-        Button.url('😎𝐎𝐖𝐍𝐄𝐑', 'https://t.me/AARAV_XD')
+        Button.url('✨𝐒𝐔𝐏𝐏𝐎𝐑𝐓', 'https://t.me/partysexid'),
+        Button.url('😎𝐎𝐖𝐍𝐄𝐑', 'https://t.me/Xzeroayy')
       ]
     )
   )
